@@ -1,0 +1,39 @@
+@charset "UTF-8";
+/*!
+  Ionicons, v2.0.0
+  Created by Ben Sperry for the Ionic Framework, http://ionicons.com/
+  https://twitter.com/benjsperry  https://twitter.com/ionicframework
+  MIT License: https://github.com/driftyco/ionicons
+
+  Android-style icons originally built by Google’s
+  Material Design Icons: https://github.com/google/material-design-icons
+  used under CC BY http://creativecommons.org/licenses/by/4.0/
+  Modified icons to fit ionicon’s grid from original.
+*/
+@font-face { font-family: "Ionicons"; src: url("../fonts/ionicons.eot?v=2.0.0"); src: url("../fonts/ionicons.eot?v=2.0.0#iefix") format("embedded-opentype"), url("../fonts/ionicons.ttf?v=2.0.0") format("truetype"), url("../fonts/ionicons.woff?v=2.0.0") format("woff"), url("../fonts/ionicons.svg?v=2.0.0#Ionicons") format("svg"); font-weight: normal; font-style: normal; }
+.ion-log-in:before,.ion-ios-search:before,.ion-ios-search-strong:before, .ion-ios-download:before,.ion-ios-download-outline:before, .ion-social-youtube:before,.ion-social-youtube-outline:before, .ion-social-tux:before, .ion-android-menu:before, .ion-ios-cart:before, .ion-locked:before, .ion-pricetag:before, .ion-pricetags:before, .ion-android-cart, .ion-android-settings:before, .ion-ios-cart-outline:before, .ion-android-cart:before, .ion-android-checkbox-outline:before, .ion-android-checkbox-outline-blank:before, .ion-ios-search-strong:before, .ion-code:before, .ion-social-google:before, .ion-social-google-outline:before, .ion-ios-home:before, .ion-ios-home-outline:before, .ion-settings:before, .ion-iphone:before, .ion-search:before, .ion-android-arrow-dropup-circle:before { display: inline-block; font-family: "Ionicons"; speak: none; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; text-rendering: auto; line-height: 1; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+.ion-social-tux:before { content: "\f2c5"; }
+.ion-ios-download:before{content:"\f420"}.ion-ios-download-outline:before{content:"\f41f"}
+.ion-android-menu:before { content: "\f394"; }
+.ion-locked:before { content: "\f200"; }
+.ion-pricetag:before { content: "\f2aa"; }
+.ion-pricetags:before { content: "\f2ab"; }
+.ion-android-cart:before { content: "\f370"; }
+.ion-android-settings:before { content: "\f2f7"; }
+.ion-ios-cart-outline:before { content: "\f3f7"; }
+.ion-ios-cart:before { content: "\f3f8"; }
+.ion-android-checkbox-outline:before { content: "\f373"; }
+.ion-android-checkbox-outline-blank:before { content: "\f372"; }
+.ion-ios-search-strong:before { content: "\f4a4"; }
+.ion-code:before { content: "\f271"; }
+.ion-social-google:before { content: "\f34f"; }
+.ion-social-google-outline:before { content: "\f34e"; }
+.ion-ios-home:before { content: "\f448"; }
+.ion-ios-home-outline:before { content: "\f447"; }
+.ion-settings:before { content: "\f2ad"; }
+.ion-iphone:before { content: "\f1fa"; }
+.ion-search:before { content: "\f21f"; }
+.ion-android-arrow-dropup-circle:before { content: "\f364"; }
+.ion-social-youtube:before{content:"\f24d"}.ion-social-youtube-outline:before{content:"\f24c"}
+.ion-ios-search:before{content:"\f4a5"}.ion-ios-search-strong:before{content:"\f4a4"}
+.ion-log-in:before{content:"\f29e"}
