@@ -1,2 +1,5 @@
 # linfoxgamer.github.io
-O Github do site do linfox que em algum momento tera alguma coisa
+meu site
+codigo do meu site
+só isso ;-;
+eu lhe dou uma foto de um gatinho fofo
