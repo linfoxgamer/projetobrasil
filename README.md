@@ -1,5 +1,6 @@
 # linfoxgamer.github.io
-meu site
-codigo do meu site
-só isso ;-;
-eu lhe dou uma foto de um gatinho fofo
+
+# codigo do meu site
+nao espere nada aqui
+
+# toma uma foto de um gato fofo
